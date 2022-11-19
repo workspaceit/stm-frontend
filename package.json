@@ -17,7 +17,7 @@
     "react-redux": "^6.0.1",
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "^1.1.5",
+    "react-scripts": "^5.0.1",
     "react-select": "^2.4.3",
     "react-table": "^6.10.0",
     "react-through": "^1.1.3",
